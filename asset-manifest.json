@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apnacart/static/css/main.073c9b0a.css",
+    "main.js": "/apnacart/static/js/main.cd865c90.js",
+    "static/js/787.c54926fb.chunk.js": "/apnacart/static/js/787.c54926fb.chunk.js",
+    "index.html": "/apnacart/index.html",
+    "main.073c9b0a.css.map": "/apnacart/static/css/main.073c9b0a.css.map",
+    "main.cd865c90.js.map": "/apnacart/static/js/main.cd865c90.js.map",
+    "787.c54926fb.chunk.js.map": "/apnacart/static/js/787.c54926fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cd865c90.js"
+  ]
+}
