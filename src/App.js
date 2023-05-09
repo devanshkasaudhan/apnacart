@@ -80,7 +80,7 @@ function App() {
       <Navbar />
       <main className="container mt-5">
         <div className="row">
-          <div className="col-6">
+          <div className="col-12 col-md-6">
             <ProductList
               phoneList={phonelist}
               increment={increment}
@@ -88,7 +88,7 @@ function App() {
               removeItem={removeItem}
             />
           </div>
-          <div className="col-6">
+          <div className="col-12 col-md-6">
             <AddItem addItemToList={addItemToList}/>
           </div>
         </div>
